@@ -27,7 +27,7 @@ The requirements and steps needed for "MINI WEATHER STATION":
 ```
 sudo apt-get update
 sudo apt-get install python3-pip
-sudo pip3 install Adafruit_dht
+sudo pip3 install adafruit_dht
 ```
 2.  For the camera module:
 
